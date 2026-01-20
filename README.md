@@ -25,14 +25,3 @@ Esta aplicación permite simular una neurona artificial con una, dos o tres entr
    ```
 2. Accede a la app en [http://localhost:8501](http://localhost:8501)
 
-## GitHub: primeros pasos
-```bash
-git init
-git add .
-git commit -m "Proyecto neurona Streamlit inicial"
-git branch -M main
-git remote add origin https://github.com/tu_usuario/tu_repositorio.git
-git push -u origin main
-```
-
-¡Listo para compartir y experimentar!
