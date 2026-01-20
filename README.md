@@ -24,4 +24,5 @@ Esta aplicación permite simular una neurona artificial con una, dos o tres entr
    docker-compose up --build
    ```
 2. Accede a la app en [http://localhost:8501](http://localhost:8501)
-
+## Link de la app
+https://ejercicio-app-neurona-bftqgtad2nxpz7zgzh2bot.streamlit.app
